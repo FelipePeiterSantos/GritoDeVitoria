@@ -1,4 +1,4 @@
-# Grito De Vitoria
+# Grito de Vitoria
 
 ## What is this code about?
 A academic game made with CoronaSDK.
